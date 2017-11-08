@@ -1,6 +1,7 @@
 # Angular FireStore App
 
-This app shows you how to implement Angular, AngularFire2 and Firebase FireStore
+> #### This app shows you how to implement Angular v4, AngularFire2 and Firebase FireStore
+> #### View live at http://angularfire4.surge.sh/
 
 ### Version
 1.0.0
